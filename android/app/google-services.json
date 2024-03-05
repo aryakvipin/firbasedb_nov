@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "476501122025",
+    "project_id": "furdatabasenov",
+    "storage_bucket": "furdatabasenov.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:476501122025:android:c0893d286b456b34714978",
+        "android_client_info": {
+          "package_name": "com.example.firbasedb_nov"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCY1P7QvJqG7QHGgQfHIRPdNEHn4gDbDvo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
